@@ -1,0 +1,8 @@
+{
+  "test_pet_1.py::test_1": true,
+  "test_pet_3.py::test_petfriends": true,
+  "test_pet_2.py::test_petfriends": true,
+  "test_pets_1.py": true,
+  "test_pets_3.py::test_show_my_pets": true,
+  "test_pets_2.py::testing_all_pets": true
+}

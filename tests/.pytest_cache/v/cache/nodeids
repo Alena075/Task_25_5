@@ -1,0 +1,13 @@
+[
+  "test_pet_1.py::test_1",
+  "test_pet_2.py::test_petfriends",
+  "test_pet_3.py::test_petfriends",
+  "test_pets_1.py::test_all_pets",
+  "test_pets_1.py::testing_all_my_pets",
+  "test_pets_1.py::testing_all_pets",
+  "test_pets_1.py::testing_area",
+  "test_pets_2.py::testing_all_peds",
+  "test_pets_2.py::testing_all_pets",
+  "test_pets_2.py::testing_area",
+  "test_pets_3.py::test_show_my_pets"
+]
